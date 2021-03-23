@@ -1,0 +1,22 @@
+C:\Users\littl\Desktop\Gaming\Assignment\DYanAssignment2\DYanAssignment2\bin\Debug\DYanAssignment2.exe.config
+C:\Users\littl\Desktop\Gaming\Assignment\DYanAssignment2\DYanAssignment2\bin\Debug\DYanAssignment2.exe
+C:\Users\littl\Desktop\Gaming\Assignment\DYanAssignment2\DYanAssignment2\bin\Debug\DYanAssignment2.pdb
+C:\Users\littl\Desktop\Gaming\Assignment\DYanAssignment2\DYanAssignment2\obj\Debug\DYanAssignment2.csprojAssemblyReference.cache
+C:\Users\littl\Desktop\Gaming\Assignment\DYanAssignment2\DYanAssignment2\obj\Debug\DYanAssignment2.DesignForm.resources
+C:\Users\littl\Desktop\Gaming\Assignment\DYanAssignment2\DYanAssignment2\obj\Debug\DYanAssignment2.MainForm.resources
+C:\Users\littl\Desktop\Gaming\Assignment\DYanAssignment2\DYanAssignment2\obj\Debug\DYanAssignment2.Properties.Resources.resources
+C:\Users\littl\Desktop\Gaming\Assignment\DYanAssignment2\DYanAssignment2\obj\Debug\DYanAssignment2.csproj.GenerateResource.cache
+C:\Users\littl\Desktop\Gaming\Assignment\DYanAssignment2\DYanAssignment2\obj\Debug\DYanAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\littl\Desktop\Gaming\Assignment\DYanAssignment2\DYanAssignment2\obj\Debug\DYanAssignment2.exe
+C:\Users\littl\Desktop\Gaming\Assignment\DYanAssignment2\DYanAssignment2\obj\Debug\DYanAssignment2.pdb
+C:\Users\littl\Desktop\Gaming\Assignment\Assignment 2\DYanAssignment2\DYanAssignment2\bin\Debug\DYanAssignment2.exe.config
+C:\Users\littl\Desktop\Gaming\Assignment\Assignment 2\DYanAssignment2\DYanAssignment2\bin\Debug\DYanAssignment2.exe
+C:\Users\littl\Desktop\Gaming\Assignment\Assignment 2\DYanAssignment2\DYanAssignment2\bin\Debug\DYanAssignment2.pdb
+C:\Users\littl\Desktop\Gaming\Assignment\Assignment 2\DYanAssignment2\DYanAssignment2\obj\Debug\DYanAssignment2.csprojAssemblyReference.cache
+C:\Users\littl\Desktop\Gaming\Assignment\Assignment 2\DYanAssignment2\DYanAssignment2\obj\Debug\DYanAssignment2.Properties.Resources.resources
+C:\Users\littl\Desktop\Gaming\Assignment\Assignment 2\DYanAssignment2\DYanAssignment2\obj\Debug\DYanAssignment2.csproj.GenerateResource.cache
+C:\Users\littl\Desktop\Gaming\Assignment\Assignment 2\DYanAssignment2\DYanAssignment2\obj\Debug\DYanAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\littl\Desktop\Gaming\Assignment\Assignment 2\DYanAssignment2\DYanAssignment2\obj\Debug\DYanAssignment2.exe
+C:\Users\littl\Desktop\Gaming\Assignment\Assignment 2\DYanAssignment2\DYanAssignment2\obj\Debug\DYanAssignment2.pdb
+C:\Users\littl\Desktop\Gaming\Assignment\Assignment 2\DYanAssignment2\DYanAssignment2\obj\Debug\DYanAssignment2.QGameDesignForm.resources
+C:\Users\littl\Desktop\Gaming\Assignment\Assignment 2\DYanAssignment2\DYanAssignment2\obj\Debug\DYanAssignment2.QGameMainForm.resources
